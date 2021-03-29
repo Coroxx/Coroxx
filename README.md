@@ -9,4 +9,4 @@
 
 - ⚡ Fun fact: I hate javascript
 
-[![Coroxx's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coroxx&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Coroxx's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coroxx&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
