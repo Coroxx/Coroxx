@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a web project named BeatUniverse, it's like reddit but for french music.. I am diversifying by publishing repositories especially in python such as TheSmartool and PegazManager
 
-- 🌱 I’m currently learning Laravel so php, javascript.
+- 🌱 I’m currently learning Laravel so php and javascript.
 
 - 📫 You can add me on discord : Corox#0666, I would be glad to help you
 
