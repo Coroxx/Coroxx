@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Laravel so php and javascript.
 
-- 📫 You can add me on discord : Corox#0666, I would be glad to help you
+- 📫 You can add me on discord : Corox#2729, I would be glad to help you
 
 - ⚡ Fun fact: I'm afraid of javascript
 
