@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a web project named BeatUniverse, it's like reddit but for french music.. I am diversifying by publishing repositories especially in python such as TheSmartool and PegazManager
+- 🔭 I’m currently working on a web project named Juliana, chatting with an AI in french
 
 - 🌱 I’m currently learning Laravel so php and javascript.
 
