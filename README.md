@@ -9,3 +9,13 @@
 
 
 [![Coroxx's github stats](https://github-readme-stats.vercel.app/api?username=Coroxx&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![Coroxx's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coroxx&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+-----
+
+### <p align="center">👀 &nbsp;Visiteurs</p>
+<br>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/coroxx/count.svg" />
+</p>
+<br>
+
+-----
